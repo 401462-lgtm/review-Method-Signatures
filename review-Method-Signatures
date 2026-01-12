@@ -1,0 +1,27 @@
+
+public int addNumbers(int a, int b) //method signature
+{                //method code block
+  return a + b;  //method code block code enclosed in brackets
+}                //method code block
+.....Constructor.....
+
+public int getNumVolHours() |
+{                           |allows for other other classes to accses the numbulhours
+  returnVolHours;           |
+}                           |
+
+
+
+
+pramiters:int a, int b
+non-void like int returns a single value inculudes the return type
+void dose not return a value includes the word void
+
+visibility 
+public allows accsess from classes outside the declaring class
+private restricts accses to only inside the declaring class
+
+// Getter method: getname()
+// Getter method: getNumVolHours()
+// Setter method: setName(String newName)
+// Setter method: setNumVolHours(int numHours)
