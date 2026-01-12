@@ -25,3 +25,7 @@ private restricts accses to only inside the declaring class
 // Getter method: getNumVolHours()
 // Setter method: setName(String newName)
 // Setter method: setNumVolHours(int numHours)
+
+Accessor and mutator methods are common instance methods 
+that allow other classes to 
+accsess and change an objects instance varibles in a conrolled manner
